@@ -5,8 +5,7 @@
 
 ## Key responsibilities
 1. Collect the data from different source.
-2. Identify the missing values, outliers and anomalies.
-3. Perform analyzing, summarizing (mean,median,mode), visualize correlation and relationships.
+2. Perform analyzing, summarizing (mean,median,mode), visualize correlation and relationships.
 
 
 ## What I found
