@@ -24,7 +24,7 @@ Installed the required packages...
 ## Total movies from each country
 ![total movies](https://user-images.githubusercontent.com/101876451/225180731-58bf62b2-4b46-4a19-bf08-1a0e24740d26.png)
 
-## Find freshness of movie based on rotten tomatoes
+## Freshness of movie based on rotten tomatoes visualize
 ![tomato](https://user-images.githubusercontent.com/101876451/225180754-2a46363e-92e1-414c-bcde-2c0d619ad53a.png)
 
 ## Top 5 countries
