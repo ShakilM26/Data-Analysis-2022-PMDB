@@ -22,6 +22,10 @@ Installed the required packages...
   pip install seaborn
   
 ```
+## Total movies from each country
+![total movies](https://user-images.githubusercontent.com/101876451/225180731-58bf62b2-4b46-4a19-bf08-1a0e24740d26.png)
+
+
 
 ## License
 
