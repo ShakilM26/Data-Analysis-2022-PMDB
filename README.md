@@ -25,8 +25,18 @@ Installed the required packages...
 ## Total movies from each country
 ![total movies](https://user-images.githubusercontent.com/101876451/225180731-58bf62b2-4b46-4a19-bf08-1a0e24740d26.png)
 
-### Find movie freshness
+## Find freshness of movie based on rotten tomatoes
 ![tomato](https://user-images.githubusercontent.com/101876451/225180754-2a46363e-92e1-414c-bcde-2c0d619ad53a.png)
+
+## Top 5 countries
+![top](https://user-images.githubusercontent.com/101876451/225180748-c94d71cf-b6a6-4eef-b407-4937ffcda6a7.png)
+
+## Monthly movie list
+![monthly](https://user-images.githubusercontent.com/101876451/225180762-7637abce-ca80-4062-9008-5222667642ec.png)
+
+
+
+
 
 ## License
 
